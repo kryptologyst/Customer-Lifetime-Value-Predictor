@@ -69,4 +69,3 @@ Enter the following customer details into the web form:
 *   **Average Order Value:** The average amount spent per order.
 
 Click the **Predict** button to see the estimated Customer Lifetime Value.
-# Customer-Lifetime-Value-Predictor
